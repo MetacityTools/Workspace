@@ -1,12 +1,12 @@
 # Metacity Workspace
 
-[![Build Status](https://github.com/MetacitySuite/Metacity-Workspace/workflows/Metacity%20Workspace%20CI/badge.svg)](https://github.com/MetacitySuite/Metacity-Workspace/actions?query=workflow%3A%22Metacity+Workspace+CI%22)
+[![Build Status](https://github.com/MetacityTools/Workspace/workflows/Metacity%20Workspace%20CI/badge.svg)](https://github.com/MetacityTools/Workspace/actions?query=workflow%3A%22Metacity+Workspace+CI%22)
 [![Pypi version](https://badge.fury.io/py/metaworkspace.svg)](https://pypi.org/project/metaworkspace/)
 
-Metacity Workspace is a Python package, which is also the main Metacity application. 
 
-See running live:
-http://metacity.cc
+⚠️ **This package is no longer maintained.** ⚠️
+
+Metacity Workspace is a Python package, and was also the main Metacity application. 
 
 ## Installation
 
